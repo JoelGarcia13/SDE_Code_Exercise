@@ -1,0 +1,2 @@
+# Run the next command on a terminal
+java src.AssignDestination "C:\Users\Joel\IdeaProjects\SDE_Code_Exercise\Addresses.txt" "C:\Users\Joel\IdeaProjects\SDE_Code_Exercise\Drivers.txt"
