@@ -1,2 +1,8 @@
-# Run the next command on a terminal
-java src.AssignDestination "C:\Users\Joel\IdeaProjects\SDE_Code_Exercise\Addresses.txt" "C:\Users\Joel\IdeaProjects\SDE_Code_Exercise\Drivers.txt"
+# For building the project, you'll need to have Java for compiling the program and
+# two datasets (files) with the addresses and drivers.
+
+# Run the next command on a terminal that's at the directory of the project.
+java AssignDestination "C:\Users\Joel\IdeaProjects\SDE_Code_Exercise\Addresses.txt" "C:\Users\Joel\IdeaProjects\SDE_Code_Exercise\Drivers.txt"
+
+#The files are passed as parameters after the name of the class.
+#You should pass the correct path for the files, the ones in the command are an example.
