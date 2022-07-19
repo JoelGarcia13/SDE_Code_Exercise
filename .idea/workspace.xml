@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15e72ab7-eabc-48af-9850-177f930c1af6" name="Changes" comment="Recuperar datos de parametros de  linea.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Addresses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Addresses.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuildInstructions" beforeDir="false" afterPath="$PROJECT_DIR$/BuildInstructions" afterDir="false" />
+    <list default="true" id="15e72ab7-eabc-48af-9850-177f930c1af6" name="Changes" comment="Implementacion del algoritmo">
       <change beforePath="$PROJECT_DIR$/src/AssignDestination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssignDestination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Shipment.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658114020364</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implementacion del algoritmo">
+      <created>1658248270321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658248270321</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Recuperar datos de parametros de  linea." />
-    <option name="LAST_COMMIT_MESSAGE" value="Recuperar datos de parametros de  linea." />
+    <MESSAGE value="Implementacion del algoritmo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementacion del algoritmo" />
   </component>
 </project>

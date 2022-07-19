@@ -4,10 +4,11 @@ import java.util.*;
 
 public class AssignDestination {
     public static void main(String[] args) throws FileNotFoundException {
-//        Scanner addresses = new Scanner(new FileReader(args[0]));
-//        Scanner drivers = new Scanner(new FileReader(args[1]));
-        Scanner addresses = new Scanner(new FileReader("Addresses.txt"));
-        Scanner drivers = new Scanner(new FileReader("Drivers.txt"));
+        Scanner addresses = new Scanner(new FileReader(args[0]));
+        Scanner drivers = new Scanner(new FileReader(args[1]));
+        //For debugging in local environment.
+//        Scanner addresses = new Scanner(new FileReader("Addresses.txt"));
+//        Scanner drivers = new Scanner(new FileReader("Drivers.txt"));
 
         List<String> addressesList;
         List<String> driversList;
